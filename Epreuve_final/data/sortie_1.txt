@@ -1,0 +1,26 @@
+========== RUSH AU RESTO ==========
+🍽️ Lecture des actions : data/scenario_1.txt
+
+Service démarré pour 10 minutes avec 1 cuisinier(s).
+[🚪 t=0] 🧍 Client #1 "Alice" (pat=5)
+[🍳 t=0] Cmd #1 commence (3 min)
+[📥 t=0] Cmd #1 (Alice) → 🍕
+Temps avancé de 1 minutes. Temps actuel : 1
+[t=1] 👥1 😋0 😡0 📥0 🍳1
+#1 Alice 🙂 (pat=4, 🍕)
+Commande #1 est prête.
+Temps avancé de 3 minutes. Temps actuel : 4
+[t=4] 👥1 😋1 😡0 📥0 🍳0
+#1 Alice 😋 (pat=3, 🍕)
+📊 Stats
+Total clients : 1
+Clients servis : 1 😋
+Clients partis fâchés : 0 😡
+Chiffre d'affaires : 14.99 $
+Plats vendus :
+	FRITES : 0 🍟
+	PIZZA : 1 🍕
+	BURGER : 0 🍔
+Service arrêté.
+Service arrêté.
+===================================
